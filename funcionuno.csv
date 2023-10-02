@@ -1,0 +1,341 @@
+year,genres,playtime_forever
+1983,action,3582
+1983,adventure,3582
+1983,casual,3582
+1984,action,384
+1984,adventure,384
+1984,casual,384
+1987,adventure,7716
+1987,simulation,235
+1988,action,16243
+1988,adventure,30241
+1988,indie,13998
+1988,rpg,13998
+1988,simulation,1
+1988,strategy,13998
+1989,action,607
+1989,adventure,9324
+1989,simulation,5084
+1990,action,18787
+1990,adventure,5538
+1990,simulation,1926
+1990,strategy,60
+1991,action,2502
+1991,adventure,1722
+1991,casual,1355
+1991,simulation,144
+1992,action,1925
+1992,adventure,23898
+1992,casual,2524
+1992,rpg,2164
+1992,simulation,11
+1993,action,24663
+1993,adventure,46811
+1993,casual,22039
+1993,simulation,65
+1993,strategy,187144
+1994,action,121057
+1994,adventure,15890
+1994,casual,45975
+1994,rpg,2092
+1994,racing,289
+1994,simulation,9390
+1994,strategy,1169
+1995,action,217813
+1995,adventure,10026
+1995,casual,3562
+1995,indie,3177
+1995,racing,31220
+1995,simulation,980
+1995,sports,31220
+1995,strategy,55249
+1996,action,70061
+1996,adventure,106050
+1996,casual,30711
+1996,free to play,127
+1996,indie,570
+1996,rpg,25505
+1996,racing,1202
+1996,simulation,1918
+1996,strategy,8569
+1997,action,363033
+1997,adventure,329299
+1997,casual,32535
+1997,indie,64814
+1997,rpg,366756
+1997,racing,9319
+1997,simulation,4980
+1997,strategy,134989
+1998,action,2935053
+1998,adventure,181142
+1998,casual,13082
+1998,indie,19958
+1998,rpg,382964
+1998,racing,15131
+1998,simulation,110263
+1998,strategy,26164
+1999,action,2735338
+1999,adventure,7830
+1999,casual,641897
+1999,free to play,635875
+1999,indie,635875
+1999,rpg,332845
+1999,racing,32
+1999,simulation,130537
+1999,strategy,584384
+2000,action,18643971
+2000,adventure,105666
+2000,casual,53135
+2000,indie,5304
+2000,rpg,53773
+2000,racing,3015
+2000,simulation,70187
+2000,strategy,31091
+2001,action,1337303
+2001,adventure,51499
+2001,casual,6332
+2001,free to play,4965
+2001,indie,89280
+2001,rpg,120600
+2001,simulation,249233
+2001,strategy,952213
+2002,action,740382
+2002,adventure,184860
+2002,casual,61625
+2002,indie,38748
+2002,rpg,1790818
+2002,simulation,360965
+2002,strategy,494843
+2003,action,11969297
+2003,adventure,5271791
+2003,casual,3048
+2003,free to play,6002403
+2003,indie,2160287
+2003,massively multiplayer,6002403
+2003,rpg,9087743
+2003,racing,31009
+2003,simulation,1364469
+2003,strategy,7345501
+2004,action,131222294
+2004,adventure,96629
+2004,casual,24490
+2004,indie,43250
+2004,rpg,72101
+2004,racing,3477
+2004,simulation,135965
+2004,strategy,3702910
+2005,action,12426135
+2005,adventure,207936
+2005,casual,40786
+2005,free to play,67388
+2005,indie,338512
+2005,rpg,3179564
+2005,racing,215700
+2005,simulation,175054
+2005,sports,69758
+2005,strategy,1018335
+2005,web publishing,93847
+2006,action,10899167
+2006,adventure,208276
+2006,casual,237151
+2006,free to play,2595634
+2006,indie,452672790
+2006,photo editing,173
+2006,rpg,1861311
+2006,racing,432945
+2006,simulation,451105400
+2006,sports,11211
+2006,strategy,17455885
+2006,utilities,385375
+2006,video production,173
+2007,action,17744979
+2007,adventure,406260
+2007,audio production,11061
+2007,casual,732006
+2007,design and illustration,11061
+2007,free to play,213746
+2007,indie,1354415
+2007,massively multiplayer,117715
+2007,photo editing,11061
+2007,rpg,9607344
+2007,racing,584341
+2007,simulation,1413105
+2007,sports,1308
+2007,strategy,3183899
+2007,utilities,11061
+2007,video production,11061
+2007,web publishing,11061
+2008,action,33990368
+2008,adventure,3325472
+2008,animation and modeling,2059
+2008,casual,571161
+2008,design and illustration,2059
+2008,education,2059
+2008,free to play,216903
+2008,indie,5315657
+2008,massively multiplayer,104548
+2008,rpg,10455279
+2008,racing,2431790
+2008,simulation,4756474
+2008,software training,2059
+2008,sports,98946
+2008,strategy,8187327
+2008,utilities,2059
+2009,action,165437678
+2009,adventure,6846744
+2009,casual,949119
+2009,free to play,2384072
+2009,indie,3843184
+2009,massively multiplayer,2062319
+2009,rpg,25935064
+2009,racing,2428522
+2009,simulation,16564304
+2009,sports,250785
+2009,strategy,32180891
+2010,action,182666321
+2010,adventure,25269776
+2010,casual,4807843
+2010,education,9
+2010,free to play,8678627
+2010,indie,8636982
+2010,massively multiplayer,7515934
+2010,rpg,92816398
+2010,racing,2067673
+2010,simulation,42238490
+2010,sports,2397026
+2010,strategy,142801650
+2011,action,335808266
+2011,adventure,224347981
+2011,casual,6028047
+2011,free to play,43610664
+2011,indie,228112239
+2011,massively multiplayer,43524874
+2011,rpg,230779412
+2011,racing,1348625
+2011,simulation,16472745
+2011,sports,930765
+2011,strategy,34944699
+2012,action,1099062852
+2012,adventure,74287969
+2012,animation and modeling,17914
+2012,casual,20624279
+2012,design and illustration,1947406
+2012,early access,3250576
+2012,free to play,116948787
+2012,indie,124663386
+2012,massively multiplayer,86022219
+2012,photo editing,2678
+2012,rpg,165540529
+2012,racing,998427
+2012,simulation,29362688
+2012,sports,3608452
+2012,strategy,86555980
+2012,utilities,10338
+2012,video production,4010
+2012,web publishing,1947406
+2013,action,420745592
+2013,adventure,152860664
+2013,animation and modeling,437438
+2013,audio production,73176
+2013,casual,13045584
+2013,design and illustration,295027
+2013,early access,120366296
+2013,education,342804
+2013,free to play,147728688
+2013,indie,179582434
+2013,massively multiplayer,134948062
+2013,rpg,126658815
+2013,racing,4772921
+2013,simulation,110934507
+2013,software training,98846
+2013,sports,6257701
+2013,strategy,147443526
+2013,utilities,654495
+2013,video production,224900
+2013,web publishing,335849
+2014,action,169214016
+2014,adventure,68289031
+2014,animation and modeling,79624
+2014,audio production,466246
+2014,casual,22573947
+2014,design and illustration,192809
+2014,early access,11397512
+2014,education,22564
+2014,free to play,37898990
+2014,indie,93339008
+2014,massively multiplayer,35839650
+2014,photo editing,61659
+2014,rpg,80218139
+2014,racing,5582374
+2014,simulation,37882036
+2014,software training,423328
+2014,sports,5604627
+2014,strategy,50912805
+2014,utilities,2725654
+2014,video production,495578
+2014,web publishing,33732
+2015,action,254861667
+2015,adventure,182800385
+2015,animation and modeling,1354685
+2015,audio production,5060
+2015,casual,82515351
+2015,design and illustration,1540351
+2015,early access,13731510
+2015,education,36083
+2015,free to play,119440426
+2015,indie,175545832
+2015,massively multiplayer,40943661
+2015,photo editing,671
+2015,rpg,153274502
+2015,racing,37910911
+2015,simulation,92931549
+2015,software training,36605
+2015,sports,41795973
+2015,strategy,83073870
+2015,utilities,579512
+2015,video production,1671790
+2015,web publishing,348861
+2016,action,97032723
+2016,adventure,62757674
+2016,animation and modeling,115627
+2016,audio production,459
+2016,casual,44475794
+2016,design and illustration,113524
+2016,early access,9902785
+2016,education,2324
+2016,free to play,23537093
+2016,indie,90559411
+2016,massively multiplayer,22305897
+2016,photo editing,39183
+2016,rpg,56660823
+2016,racing,3670219
+2016,simulation,36356670
+2016,software training,481
+2016,sports,4763913
+2016,strategy,31806073
+2016,utilities,117920
+2016,video production,1380
+2016,web publishing,136
+2017,action,127853760
+2017,adventure,93938301
+2017,casual,51545965
+2017,design and illustration,21
+2017,early access,34462
+2017,education,9713
+2017,free to play,87312570
+2017,indie,127094134
+2017,massively multiplayer,64266355
+2017,rpg,68349598
+2017,racing,116343
+2017,simulation,24745462
+2017,software training,9713
+2017,sports,22876
+2017,strategy,5936675
+2017,utilities,9734
+2017,web publishing,9713
+2018,action,2224
+2018,adventure,21
+2018,early access,6128
+2018,indie,2327
+2018,rpg,3822
+2018,simulation,2203
